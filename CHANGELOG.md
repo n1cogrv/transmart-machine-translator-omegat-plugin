@@ -1,14 +1,14 @@
 # Change Log
-All notable changes to this project will be documented in this file.
 
-## [Unreleased]
+## Add
 
-### Add
-- foo
-- boo
++ Basic TranSmart Integration 
++ Continuous Integration with GitHub Actions.
 
-### Changed
+## Changed
 
-### Fixed
++ Milestone update. See [Add] Section for all.
 
-[Unreleased]: https://github.com/miurahr/omegat-plugin-skelton/compare/v0.1...HEAD
+## Fixed
+
++ None

@@ -152,7 +152,7 @@ public class TranSmartMT extends BaseTranslate {
 
     @Override
     protected String getPreferenceName() {
-        return "TranSmart Machine Translator OmegaT Plugin";
+        return "allow_transmart_mt_plugin";
     }
 
     @Override
